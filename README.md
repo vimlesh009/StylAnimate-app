@@ -7,13 +7,6 @@
   Opens Pivot (<code>.piv</code>, <code>.stk</code>) and Stick Nodes projects, and keeps your work on your device.
 </p>
 
-<p align="center">
-  <a href="https://stykanimate.com">Website</a> ·
-  <a href="https://app.stykanimate.com">Open in the browser</a> ·
-  <a href="https://github.com/filippocalippo/styk-animate-releases/releases/latest">Download</a> ·
-  <a href="https://discord.gg/WTssQKBaJp">Discord</a> ·
-  <a href="https://www.youtube.com/channel/UCZg7hZc23PNufzxnX8mCaCw">YouTube</a>
-</p>
 
 ## Features
 
